@@ -1,0 +1,3 @@
+Hit Ratio@5: 0.806
+Hit Ratio@3: 0.7295
+Hit Ratio@1: 0.46725

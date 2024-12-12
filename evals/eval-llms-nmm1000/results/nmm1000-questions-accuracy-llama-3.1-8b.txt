@@ -1,0 +1,4 @@
+Number of wobk questions: 4000
+Number of wbk questions: 4000
+Accuracy of wobk questions: 0.0
+Accuracy of wbk questions: 0.995
